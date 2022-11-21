@@ -1,0 +1,114 @@
+body {
+  background-image: url(https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/cricpro-bg.png);
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  height: 100vh;
+}
+.top {
+  display: flex;
+  justify-content: space-between;
+  background-color: red;
+  height: 30px;
+  width: 725px;
+  padding-left: 15px;
+  padding-right: 10px;
+}
+
+h3 {
+  position: relative;
+  top: -15px;
+}
+.head{
+  position: relative;
+  left: -21px;
+
+}
+
+.table{
+  background-color: white;
+  padding: 5px 5px 5px 5px;
+  width: 750px;
+  height: 327px;
+}
+
+.footer{
+  position: relative;
+  top: 73px;
+}
+.cup{
+  padding-top: -20px;
+}
+
+.image{
+  position: relative;
+  top: 80px;
+  left: 1100px;
+}
+.name{
+  color: blue;
+}
+.players{
+  margin: 0px 0px 0px 0px ;
+  display: none; 
+
+}
+/* #ms{
+  position: relative;
+  top: -183px;
+  display: none;
+}
+#gg{
+  position: relative;
+  top: -245px;
+  right: 524px;
+  display: none;
+}
+#harb{
+  position: absolute;
+  top: 536px;
+  left: 236px;  
+  display: none;
+
+}
+#mp{
+  position: absolute;
+  top: 536px;
+  left: 436px;
+}
+#st{
+  position: absolute;
+  top: 293px;
+  display: none;
+}
+#vs{
+  position: absolute;
+  top: 258px;
+  display: none;
+
+}
+#shri{
+  position: absolute;
+  top: 536px;
+  left: 526px;
+  display: none;
+}
+#sr{
+  position: absolute;
+  top: 536px;
+  left: 136px;
+}
+#vk{
+  position: absolute;
+  top: 353px;
+  display: none; 
+}
+#yuvi{
+  position: absolute;
+  top: 419px;
+  display: none;
+}
+#zk{
+  position: absolute;
+  top: 536px;
+  left: 360px;
+}  */
